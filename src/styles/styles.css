@@ -62,6 +62,7 @@ body {
 .lists-container {
   display: flex;
   overflow-x: auto;
+  align-items: flex-start;
   max-width: calc(100vw - 350px);
   gap: 5rem;
   padding: 2rem;
